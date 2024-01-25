@@ -1,6 +1,6 @@
 # Blob project
 
-As part of the second year of a double degree in mathematics and physics, with Rodolphe Alquier, Ancelin Balannec, Théo Contentin and Paul Hardy supervised by Olivier Guilbaud, we simulated the behaviour of a blob based on the Poiseuille equation.\\
+As part of the second year of a double degree in mathematics and physics, with Rodolphe Alquier, Ancelin Balannec, Théo Contentin and Paul Hardy supervised by Olivier Guilbaud, we simulated the behaviour of a blob based on the Poiseuille equation.
 By representing the block as an entity on a more or less square network with energy sinks and sources, we can represent the internal variations of the blob, which seeks to optimise its energy transport.
 The subject and the report are available in French and trace the history of the various networks tested as well as the results obtained.
 
